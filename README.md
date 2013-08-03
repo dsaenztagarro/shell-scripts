@@ -10,4 +10,7 @@ If the project is not found the list of current projects will be shown.
 For the launched project the development server and database will be started. 
 The process includes "ping" to the development database machine for verification. 
 
-I have added it to my personal laptop with a symbolic link to my path. 
+
+**deployer.py**
+
+This script allows me to deploy locally every Django project in an Apache Server
